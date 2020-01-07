@@ -23,11 +23,17 @@
                         <ul>
                         <li><a href="http://startdown.dx.am"> Click here to check startdown</a>
                         <li><a href="http://ezekoconcept.dx.am/login.php"> Click here to check to check Ezekoconcept</a>
+                        <li><a href="https://trim.ng"> Click here to check to check trimly</a>
+                        <li><a href="https://hng6teamsuccess.000webhostapp.com/register.html"> Click here to check to check hngteamsuccess project</a>
+                        <li><a href="https://spendless-hng.000webhostapp.com"> Click here to check to check Spendless</a>
+                        <li><a href="https://dlbcore.000webhostapp.com"> Click here to check to check dlbc registration page</a>
                         </ul>
-                        (  https://trim.ng, http://hng6teamsuccess.000webhostapp.com/register.html, https://spendless-hng.000webhostapp.com etc). I also have good knowledge of version control system.
+                        </p>
+                        <p>
+                         I also have good knowledge of version control system.
 
                         I am conversant with agile frameworks and also with security measures.
-                        My GitHub handle is <a href="https://github.com/Ezeko"></a>.
+                        My GitHub handle is <a href="https://github.com/Ezeko"> <img src="https://res.cloudinary.com/ezeko/image/upload/v1578773356/images/github_af6hr1.png" alt="Github Image"> </a>.
 
                         My resume is attached for your kind perusal. Looking forward to hearing from you soon and thanks for your time and consideration.
 
