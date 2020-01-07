@@ -20,7 +20,11 @@
                       <p>
 
                         I am a seasoned fullstack website developer with more than three years experience in HTML5, CSS3, JavaScript (ES6, ES7,ES8, fetchAPI, xmlhttprequest),react, nodeJs, and also PHP MYSQL. Some Example projects are listed in the bracket below. 
-                        (http://startdown.dx.am, http://ezekoconcept.dx.am/login.php, https://trim.ng, http://hng6teamsuccess.000webhostapp.com/register.html, https://spendless-hng.000webhostapp.com etc). I also have good knowledge of version control system.
+                        <ul>
+                        <li><a href="http://startdown.dx.am"> Click here to check startdown</a>
+                        <li><a href="http://ezekoconcept.dx.am/login.php"> Click here to check to check Ezekoconcept</a>
+                        </ul>
+                        (  https://trim.ng, http://hng6teamsuccess.000webhostapp.com/register.html, https://spendless-hng.000webhostapp.com etc). I also have good knowledge of version control system.
 
                         I am conversant with agile frameworks and also with security measures.
                         My GitHub handle is <a href="https://github.com/Ezeko"></a>.
