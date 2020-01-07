@@ -14,24 +14,26 @@
                       
                       </p>
                       <p>
-                          We recieved below details from you. Please use given Request/Ticket ID for future follow up:
+                          
+                      I write in response to your advertisement of the vacant position in your organization. 
                       </p>
                       <p>
-                      I write in response to your post about your search to fill the vacant position in your organization.
-                      
-                      I am a seasoned fullstack website developer with core competencies in html5, css3, bootsrap4, JavaScript, php mysql, mongodb, react, expressJs and NodeJs.
-                      
-                      I have full knowledge of version control system (git). I also understand fully well unit and integrated testing and also have an in-depth knowledge of agile frameworks.
-                      
-                      Kindly find below the attached copy of my resume. Looking to hearing from you soon. Thanks for your time and consideration.
-                      
+
+                        I am a seasoned fullstack website developer with more than three years experience in HTML5, CSS3, JavaScript (ES6, ES7,ES8, fetchAPI, xmlhttprequest),react, nodeJs, and also PHP MYSQL. Some Example projects are listed in the bracket below. 
+                        (http://startdown.dx.am, http://ezekoconcept.dx.am/login.php, https://trim.ng, http://hng6teamsuccess.000webhostapp.com/register.html, https://spendless-hng.000webhostapp.com etc). I also have good knowledge of version control system.
+
+                        I am conversant with agile frameworks and also with security measures.
+                        My GitHub handle is <a href="https://github.com/Ezeko"></a>.
+
+                        My resume is attached for your kind perusal. Looking forward to hearing from you soon and thanks for your time and consideration.
+
                     
                       </p>
                       <p>
                       Yours Sincerely,<br>
                       Ezekiel ADEJOBI.
                       </p>
-                      <a href=''>Click here to view resume</a>
+                      <a href="https://docs.google.com/document/d/1oIbM81srxtKqLGw2X9hSAnVb_RWw39JwOhiyl84xlRY/edit">Click here to view resume</a>
                   </body>
               </html>';
   $success = mail( $to, $subject, $message, $headers ); 
