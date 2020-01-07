@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
-    <title>EZEKIELCODES - AUTOEMAIL sender sample</title>
+    <title>EZEKIELCODES - Application AUTOEMAIL sender</title>
     
         <link rel="icon" type="image/jpg" href="https://res.cloudinary.com/ezeko/image/upload/v1566502038/images/31517324_l4rbyl.jpg" />
     <style>
@@ -48,12 +48,9 @@ input[type='submit']{
     <div>
     <section id="form">
     
-    <form action="aamailer.php" method="POST">
-        <input type="text" name="firstname" placeholder="Recipient firstname" required>
-        <input type="text" name="lastname" placeholder="Recipient lastname" required>
+    <form action="mailer.php" method="POST">
         <input type="email" name="email" placeholder="Recipient Email" required>
         <input type="text" name="subject" placeholder="Subject" required>
-        <input type="number" minlength="8" name="ticketID" placeholder="ticket ID" required>
         <input type="submit" value="Send Email" >
     </form>
     </section>
