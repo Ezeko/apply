@@ -4,16 +4,16 @@
   $to = $email;
   $headers  = "MIME-Version: 1.0" . "\r\n";
   $headers .= "Content-type: text/html; charset=iso-8859-1" . "\r\n";
-  $headers  .= "From: NO-REPLY<no-reply@mydomain.com>" . "\r\n";
+  $headers  .= "From: Ezekiel Adewole Adejobi<adejobiezekieladewole@gmail.com>" . "\r\n";
   $subject = $_REQUEST['subject'];
   $message = '<html>
+            <link rel="icon" type="image/jpg" href="https://res.cloudinary.com/ezeko/image/upload/v1566502038/images/31517324_l4rbyl.jpg" />
                   <body style="color:grey">
                       <p style="color: green">Dear Hiring Manager,
-
-                      APPLICATION FOR THE POST OF A WEBSITE DEVELOPER
                       
                       </p>
                       <p>
+                      APPLICATION FOR THE POST OF A WEBSITE DEVELOPER
                           
                       I write in response to your advertisement of the vacant position in your organization. 
                       </p>
