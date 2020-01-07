@@ -51,7 +51,7 @@ input[type='submit']{
     <form action="mailer.php" method="POST">
         <input type="email" name="email" placeholder="Recipient Email" required>
         <input type="text" name="subject" placeholder="Subject" required>
-        <input type="submit" value="Send Email" >
+        <input type="submit" value="Send Application" >
     </form>
     </section>
     </div>
